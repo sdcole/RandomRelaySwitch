@@ -6,6 +6,6 @@
 		</attributes>
 	</classpathentry>
 	<classpathentry kind="src" path="src"/>
-	<classpathentry kind="lib" path="C:/Users/saeba/Desktop/TODO/pi4j-1.2/pi4j-1.2/lib/pi4j-core.jar"/>
+	<classpathentry kind="lib" path="/pi4j-1.2/pi4j-1.2/lib/pi4j-core.jar"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
